@@ -1,1 +1,1 @@
-# se-project-library
+# first-independant-project
